@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jia Shin</h1>
-<h3 align="center">A passionate fullstack flutter and CTF beginner</h3>
 
-- 🌱 I’m currently learning **FullStack Flutter**
+- 🌱 I’m currently learning **FullStack Flutter** and **CTF**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
