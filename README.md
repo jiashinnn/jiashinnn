@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jia Shin</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jiashinnn&label=Profile%20views&color=0e75b6&style=flat" alt="jiashinnn" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiashinnn&label=Profile%20views&color=0e75b6&style=flat" alt="jiashinnn" /> </p> -->
 
-- 🌱 I’m currently learning **FullStack Flutter and CTF**
+- 🌱 I’m currently learning **FullStack Flutter and Blockchain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
